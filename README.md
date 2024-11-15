@@ -26,3 +26,4 @@ Before you can run this project, you'll need to have the following software inst
    ```bash
    git clone https://github.com/yourusername/video-to-anime-creator.git
    cd video-to-anime-creator
+# video-to-anime-creator
